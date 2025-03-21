@@ -1,3 +1,2 @@
-This repository includes Golang assignments completed as part of the Forcepoint Training program.
-
+This repository includes Golang practice assignments
 During solving these assignments, I learned to practically apply key software design principles and patterns, including **GORM transactions** for efficient database operations. Applied **SOLID principles** to ensure maintainable and scalable code, implemented the **Factory Design Pattern** for object creation, and used the **Interface Pattern** for flexibility. Additionally, I gained experience with **Transaction Management** and **Unit of Work (UoW)** patterns to maintain data consistency and manage complex business logic."
